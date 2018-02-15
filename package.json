@@ -37,7 +37,7 @@
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-qunit-nested-module-blueprints-polyfill": "^1.1.1",
     "ember-resolver": "^4.0.0",
-    "ember-simple-auth": "1.5.0",
+    "ember-simple-auth": "alexander-alvarez/ember-simple-auth#init-to-activate",
     "ember-source": "~2.18.0",
     "ember-welcome-page": "^3.0.0",
     "eslint-plugin-ember": "^5.0.0",
